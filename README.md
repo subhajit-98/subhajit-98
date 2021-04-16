@@ -9,7 +9,7 @@ subhajit-98/subhajit-98 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="right" style="font-family: fangsong;">Connect with me :</h3>
+<h3 align="right" font-family="fangsong">Connect with me :</h3>
 <!-- <a href="">
   <img align="right" alt="Subhajit Dey - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a> -->
@@ -22,19 +22,19 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Hi 👋, I'm Subhajit Dey</h2>
 
-```python
-Skills = {
-languages : [C, Cpp, Python, Java, Html, Css, Javascript, PHP],
+```js
+const Skills = {
+    languages : [C, Cpp, Python, Java, Html, Css, Javascript, PHP],
 
-ide       : [Vs Code, PyCharm, Sublime Text],
+    ide       : [Vs Code, PyCharm, Sublime Text],
 
-libraries : [Jquery, PyMysql, Tkinter],
+    libraries : [Jquery, PyMysql, Tkinter],
 
-frameworks: [Bootstrap, React, Node, Express, Django],
+    frameworks: [Bootstrap, React, Node, Express, Django],
 
-databases : [Sqlite3, MySql, PostgreSQL, Mongo DB],
+    databases : [Sqlite3, MySql, PostgreSQL, Mongo DB],
 
-platforms : [Google Cloud Platform, Amazon Web Services, Heroku, Github Pages]
+    platforms : [Google Cloud Platform, Amazon Web Services, Heroku, Github Pages]
 }
 ```
 

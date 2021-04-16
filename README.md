@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img align="right" alt="Subhajit Deyr - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 
-<h2 align="center">Hi 👋, I'mSubhajit Dey</h2>
+<h2 align="center">Hi 👋, I'm Subhajit Dey</h2>
 
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=subhajit-98&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/chiraag-kakar"/>
 

@@ -22,6 +22,21 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Hi 👋, I'm Subhajit Dey</h2>
 
+```js
+Skills
+languages :[C, Cpp, Python, Java, Html, Css, Javascript, PHP],
+
+ide       :[Vs Code, PyCharm, Sublime Text],
+
+libraries :[Jquery, PyMysql, Tkinter],
+
+frameworks:[Bootstrap, React, Node, Express, Django],
+
+databases :[Sqlite3, MySql, PostgreSQL, Mongo DB],
+
+platforms :[Google Cloud Platform, Amazon Web Services, Heroku, Github Pages],
+```
+
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=subhajit-98&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/chiraag-kakar"/>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

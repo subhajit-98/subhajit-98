@@ -14,5 +14,8 @@ You can click the Preview link to take a look at your changes.
   <img align="right" alt="Subhajit Dey - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
 <a href="">
+  <img align="right" alt="Subhajit Dey - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>
+</a>
+<a href="">
   <img align="right" alt="Subhajit Deyr - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>

@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 <!-- <a href="">
   <img align="right" alt="Subhajit Dey - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a> -->
-<a href="">
+<a href="https://www.linkedin.com/in/subhajit-dey-9905ab209/">
   <img align="right" alt="Subhajit Dey - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>
 </a>
-<a href="">
+<a href="https://www.facebook.com/profile.php?id=100063676179237">
   <img align="right" alt="Subhajit Deyr - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 
@@ -25,13 +25,13 @@ You can click the Preview link to take a look at your changes.
 ```js
 const Skills = 
     {
-    languages : [C, Cpp, Python, Java, Html, Css, Javascript, PHP],
+    languages : [C, C++, Python, Java, HTML, CSS, JavaScript, PHP],
 
     ide       : [Vs Code, PyCharm, Sublime Text],
 
-    libraries : [Jquery, PyMysql, Tkinter],
+    libraries : [JQuery, PyMysql, Tkinter, React JS],
 
-    frameworks: [Bootstrap, React, Node, Express, Django],
+    frameworks: [Bootstrap, Node, Express, Django],
 
     databases : [Sqlite3, MySql, PostgreSQL, Mongo DB],
 
@@ -40,7 +40,9 @@ const Skills =
 ```
 ---
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=subhajit-98&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/=subhajit-98"/>
+
 ---
+
 <h2 align="center">Some of the projects I have worked on 💞️ 👨‍💻:</h2>
 
 <!-- <center>

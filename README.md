@@ -8,6 +8,7 @@
 subhajit-98/subhajit-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit-98" alt="subhajit" /> </p>
 
 <h3 align="right" font-family="fangsong">📫 Connect with me :</h3>
 <!-- <a href="">
@@ -44,6 +45,9 @@ const Skills =
 ---
 
 <h2 align="center">Some of the projects I have worked on 💞️ 👨‍💻:</h2>
+<a href="https://dey-subhajit.github.io/weather-forcust/">
+  <img align="lefr"  alt="Chiraag Kakar - DEV" src="https://github.com/subhajit-98/subhajit-98/ProjectImage_1.png" width="120px">
+</a>
 
 <!-- <center>
 <a href="https://github.com/chiraag-kakar/Crack-Buzz">

@@ -46,7 +46,7 @@ const Skills =
 
 <h2 align="center">Some of the projects I have worked on 💞️ 👨‍💻:</h2>
 <a href="https://dey-subhajit.github.io/weather-forcust/">
-  <img align="lefr"  alt="Chiraag Kakar - DEV" src="https://github.com/subhajit-98/subhajit-98/ProjectImage_1.png" width="120px">
+  <img align="lefr"  alt="Subhajit - DEV" src="https://github.com/subhajit-98/subhajit-98/blob/main/ProjectImage_1.png" width="120px">
 </a>
 
 <!-- <center>

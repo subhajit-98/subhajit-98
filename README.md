@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ```js
 const Skills = 
-    {
+  {
     languages : [C, C++, Python, Java, HTML, CSS, JavaScript, PHP],
 
     ide       : [Vs Code, PyCharm, Sublime Text],
@@ -37,7 +37,7 @@ const Skills =
     databases : [Sqlite3, MySql, PostgreSQL, Mongo DB],
 
     platforms : [Google Cloud Platform, Amazon Web Services, Heroku, Github Pages]
-}
+  }
 ```
 ---
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=subhajit-98&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/=subhajit-98"/>

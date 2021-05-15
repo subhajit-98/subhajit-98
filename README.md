@@ -28,7 +28,7 @@ const Skills =
   {
     languages : [C, C++, Python, Java, HTML, CSS, JavaScript, PHP],
 
-    ide       : [Vs Code, PyCharm, Sublime Text],
+    ide       : [VS Code, PyCharm, Sublime Text],
 
     libraries : [JQuery, PyMysql, Tkinter, React JS],
 

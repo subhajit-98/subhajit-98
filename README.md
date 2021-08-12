@@ -49,7 +49,7 @@ const Skills =
   <img align="left"  alt="Subhajit - DEV" src="https://github.com/subhajit-98/subhajit-98/blob/main/ProjectImage_1.png" width="280px">
 </a>
 <a href="http://www.techninetyeight.com/" target="_blank">
-  <img align="left"  alt="Subhajit - DEV" src="https://github.com/subhajit-98/subhajit-98/blob/main/my_portfolio_home_page.jpg" width="280px">
+  <img align="left"  alt="Subhajit - DEV" src="https://github.com/subhajit-98/subhajit-98/blob/main/my_portfolio_home_page.png" width="280px">
 </a>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

@@ -26,17 +26,17 @@ You can click the Preview link to take a look at your changes.
 ```js
 const Skills = 
   {
-    languages : [C, C++, Python, Java, HTML, CSS, JavaScript, PHP],
+    languages : [C, C++, Python, Java, XML],
 
-    ide       : [VS Code, PyCharm, Sublime Text],
+    ide       : [VS Code, Android Studio],
 
-    libraries : [JQuery, PyMysql, Tkinter, React JS],
+    libraries : [Volley, Glide, JQuery, PyMysql, Tkinter, React JS],
 
-    frameworks: [Bootstrap, Node, Express, Django],
+    frameworks: [Django],
 
-    databases : [Sqlite3, MySql, PostgreSQL, Mongo DB],
+    databases : [Sqlite3, MySql],
 
-    platforms : [Google Cloud Platform, Amazon Web Services, Heroku, Github Pages]
+    platforms : [Amazon Web Services, Heroku, Github Pages]
   }
 ```
 ---
@@ -47,6 +47,9 @@ const Skills =
 <h2 align="center">Some of the projects I have worked on 💞️ 👨‍💻:</h2>
 <a href="https://dey-subhajit.github.io/weather-forcust/" target="_blank">
   <img align="left"  alt="Subhajit - DEV" src="https://github.com/subhajit-98/subhajit-98/blob/main/ProjectImage_1.png" width="280px">
+</a>
+<a href="http://www.techninetyeight.com/" target="_blank">
+  <img align="left"  alt="Subhajit - DEV" src="https://github.com/subhajit-98/subhajit-98/blob/main/my_portfolio_home_page.jpg" width="280px">
 </a>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

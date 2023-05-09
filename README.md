@@ -44,6 +44,8 @@ const Skills =
     databases : [Sqlite3, MySql],
 
     platforms : [Amazon Web Services, Heroku, Github Pages]
+
+    OS        : [LINUX, Windows]
   }
 ``` -->
 ```js

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-- 🔭
+- 🔭 👨‍💻
 -->
 
 <!---
@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <h2 align="center">Hi 👋, I'm Subhajit Dey</h2>
-<h5>- 🔭 I a currently working on struts.</h5>
+- 🔭 I'm currently working on struts2
 
-```js
+<!-- ```js
 const Skills = 
   {
     languages : [C, C++, Python, Java, XML],
@@ -41,13 +41,30 @@ const Skills =
 
     platforms : [Amazon Web Services, Heroku, Github Pages]
   }
+``` -->
+```js
+const Skills = 
+  {
+    languages : [Java, SQL],
+
+    ide       : [VS Code, Eclipse],
+
+    libraries : [JQuery, React JS],
+
+    frameworks: [struts2, springboot],
+
+    databases : [PostGreSQL, MySql],
+
+    server    : [Amazon Web Services, Heroku, Github Pages]
+  }
 ```
+
 ---
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=subhajit-98&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/=subhajit-98"/>
 
 ---
 
-<h2 align="center">Some of the projects I have worked on 💞️ 👨‍💻:</h2>
+<h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
 <a href="https://dey-subhajit.github.io/weather-forcust/" target="_blank">
   <img align="left"  alt="Subhajit - DEV" src="https://github.com/subhajit-98/subhajit-98/blob/main/ProjectImage_1.png" width="280px">
 </a>

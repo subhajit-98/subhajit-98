@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/subhajit-dey-9905ab209/">
   <img align="right" alt="Subhajit Dey - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100063676179237">
-  <img align="right" alt="Subhajit Deyr - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+<!-- <a href="https://www.facebook.com/profile.php?id=100063676179237">
+  <img align="right" alt="Subhajit Deyr - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/> -->
 </a>
 
 <h2 align="center">Hi 👋, I'm Subhajit Dey</h2>

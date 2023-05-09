@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Hi 👋, I'm Subhajit Dey</h2>
 - 🔭 I'm currently working on struts2
+- 🌱 I’m looking for help with improving Stats
 <h2> </h2>
 
 <!-- ```js

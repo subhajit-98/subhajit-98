@@ -47,11 +47,11 @@ const Skills =
   {
     languages : [Java, SQL],
 
-    ide       : [VS Code, Eclipse],
+    ide       : [VSCode, Eclipse],
 
     libraries : [JQuery, React JS],
 
-    frameworks: [struts2, springboot],
+    frameworks: [Struts2, Spring Boot],
 
     databases : [PostGreSQL, MySql],
 

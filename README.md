@@ -70,12 +70,12 @@ const Skills =
 
 ---
 
-<h2 align="center">Some of the projects I have worked on 👀 :</h2>
+<h2 align="center">Some of the project(s) I have worked on 👀 :</h2>
 <a href="https://dey-subhajit.github.io/weather-forcust/" target="_blank">
   <img align="left"  alt="Subhajit - DEV" src="https://github.com/subhajit-98/subhajit-98/blob/main/ProjectImage_1.png" width="280px">
 </a>
-<a href="http://www.techninetyeight.com/" target="_blank">
+<!-- <a href="http://www.techninetyeight.com/" target="_blank">
   <img align="left"  alt="Subhajit - DEV" src="https://github.com/subhajit-98/subhajit-98/blob/main/my_portfolio_home_page.png" width="280px">
-</a>
+</a> -->
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

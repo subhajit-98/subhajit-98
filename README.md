@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-- 🔭 👨‍💻 😄 ⚡ 🤔 💬 👨 💻
+- 🔭 👨‍💻 😄 ⚡ 🤔 💬 👨 💻 
 -->
 
 <!---
@@ -29,8 +29,6 @@ You can click the Preview link to take a look at your changes.
 - 👨‍💻 I'm currently working on struts2
 - 🌱 I’m looking for help with improving Stats
 - 💬 Ask me about any Technical ground questions
-- 🔭 Looking for R&D related work
-
 <h2> </h2>
 
 <!-- ```js

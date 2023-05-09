@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-- 🔭 👨‍💻
+- 🔭 👨‍💻 😄 ⚡ 🤔 💬 👨 💻
 -->
 
 <!---
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Hi 👋, I'm Subhajit Dey</h2>
 
-- 🔭 I'm currently working on struts2
+- 👨‍💻 I'm currently working on struts2
 - 🌱 I’m looking for help with improving Stats
 
 <h2> </h2>
@@ -70,7 +70,7 @@ const Skills =
 
 ---
 
-<h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
+<h2 align="center">Some of the projects I have worked on 👀 :</h2>
 <a href="https://dey-subhajit.github.io/weather-forcust/" target="_blank">
   <img align="left"  alt="Subhajit - DEV" src="https://github.com/subhajit-98/subhajit-98/blob/main/ProjectImage_1.png" width="280px">
 </a>

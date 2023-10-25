@@ -24,11 +24,14 @@ You can click the Preview link to take a look at your changes.
   <img align="right" alt="Subhajit Deyr - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/> -->
 </a>
 
-<h2 align="center">Hi 👋, I'm Subhajit Dey</h2><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">Hi 👋, I'm Subhajit Dey<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h2>
 
-- 👨‍💻 I'm currently working on struts2
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+
+- 👨‍💻 I'm currently working on java using struts2 framework
 - 🌱 I’m looking for help with improving Stats
 - 💬 Ask me about any Technical ground questions
+<br /><br /><br /><br /><br />
 <h2> </h2>
 
 <!-- ```js
@@ -56,18 +59,29 @@ const Skills =
 
     ide       : [VSCode, Eclipse],
 
-    libraries : [JQuery, React JS],
+    libraries : [JQuery, React JS, Bootstrap],
 
     frameworks: [Struts2, Spring Boot],
 
     databases : [PostGreSQL, MySql],
 
-    server    : [Amazon Web Services, Heroku, Github Pages]
+    server    : [Amazon Web Services, Github Pages],
+    
+    OS        : [LINUX, Windows]
   }
 ```
 
 ---
+<table>
+<tr>
+<td>
+<img align="center" border-radius="40px" width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit-98&show_icons=true&locale=en&layout=compact&theme=react" alt="languages I use" />
+</td>
+<td>
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=subhajit-98&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/=subhajit-98"/>
+</td>
+</tr>
+</table>
 
 ---
 

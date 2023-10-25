@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <h2 align="center">Hi 👋, I'm Subhajit Dey</h2>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 👨‍💻 I'm currently working on struts2
 - 🌱 I’m looking for help with improving Stats
 - 💬 Ask me about any Technical ground questions

@@ -24,7 +24,8 @@ You can click the Preview link to take a look at your changes.
   <img align="right" alt="Subhajit Deyr - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/> -->
 </a>
 
-<h2 align="center">Hi 👋, I'm Subhajit Dey <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h2>
+<h2 align="center">Hi 👋, I'm Subhajit Dey</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
